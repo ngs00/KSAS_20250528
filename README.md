@@ -1,1 +1,1 @@
-- ``KSAS_20250528_lab1.ipynb``: 
+- ``KSAS_20250528_lab1.ipynb``: Source code of lab #1 to construct a basic machine learning model that predicts concrete strength.
