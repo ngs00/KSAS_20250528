@@ -13,7 +13,7 @@ def load_dataset(metadata, path_jdx_files, target_fg):
 
     for jdx_file in jdx_files:
         irs = jcamp.jcamp_readfile(jdx_file)
-        smiles = metadata[jdx_file.split('\\')[-1].split('.jdx')[0]][3]
+        smiles = metadata[jdx_file.split('/')[-1].split('.jdx')[0]][3]
 
         if isinstance(smiles, float):
             continue
