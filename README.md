@@ -1,1 +1,3 @@
-- ``KSAS_20250528_lab1.ipynb``: Source code of lab #1 to construct a basic machine learning model that predicts concrete strength.
+- ``KSAS_20250528_lab1.ipynb``: Source code of lab #1 to build a basic machine learning model that predicts concrete strength.
+- ``KSAS_20250528_lab2.ipynb``: Source code of lab #2 to read the JDX files of IR spectrum.
+- ``KSAS_20250528_lab3.ipynb``: Source code of lab #3 to build a machine learning model that detects target functional groups from IR spectra of unknown chemical compounds.
