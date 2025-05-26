@@ -6,5 +6,5 @@
 
 - ``concrete_strength.xlsx``: An example dataset of lab 1.
 - ``2-Fluoro-3-(trifluoromethyl)benzonitrile.jdx``: An example JDX file for lab 2.
-- ``irs_dataset.zip``: A NIST dataset for lab 3.
+- ``irs_dataset.zip``: The NIST dataset for lab 3.
 - ``data.py``: Data pre-processing code to construct IR spectrum datasets.
